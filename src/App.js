@@ -125,10 +125,10 @@ class App extends Component {
       <div className="App">
         <div className="App-header">
           <img src={sixfigureslogo} className="App-logo" alt="logo" />
-          <h2>Entrepreneur Quiz</h2>
+          <h2>Are you an Entrepreneur? Take Our Quiz</h2>
         </div>
         {this.state.result ? this.renderResult() : this.renderQuiz()}
-        <p style={{padding: "10px"}}>Quiz designed and coded by mitchgavan</p>
+        <p style={{padding: "10px"}}>All Rights Reserved Worldwide. Copyright Hughes BioPharma Advisers LLC</p>
       </div>
     );
   }

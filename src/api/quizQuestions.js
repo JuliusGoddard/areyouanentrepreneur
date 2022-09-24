@@ -7,7 +7,7 @@ var quizQuestions = [
               content: "How rude!"
           },
           {
-              type: "You’re got potential",
+              type: "You’ve got potential",
               content: "Whatever"
           },
           {
@@ -24,7 +24,7 @@ var quizQuestions = [
               content: "No way this is happening."
           },
           {
-              type: "You’re got potential",
+              type: "You’ve got potential",
               content: "Okay, maybe this will work."
           },
           {
@@ -41,8 +41,8 @@ var quizQuestions = [
               content: "I think you've mistaken me for Harry Potter."
           },
           {
-              type: "You’re got potential",
-              content: "I need coffee money hand over the sticks and I'll see what happens."
+              type: "You’ve got potential",
+              content: "That seems too difficult, I would need to think about it first before trying."
           },
           {
               type: "Get launching!  You’re an Entrepreneur.",
@@ -58,7 +58,7 @@ var quizQuestions = [
               content: "Break out in a cold sweat"
           },
           {
-              type: "You’re got potential",
+              type: "You’ve got potential",
               content: "Run from the room screaming"
           },
           {
@@ -75,7 +75,7 @@ var quizQuestions = [
               content: "Run screaming into the sidewalk pulling out your hair."
           },
           {
-              type: "You’re got potential",
+              type: "You’ve got potential",
               content: "Sigh and remind yourself how much you love learning new stuff while setting up a key team members meeting to investigate."
           },
           {
