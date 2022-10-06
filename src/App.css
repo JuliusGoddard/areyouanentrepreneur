@@ -1,5 +1,5 @@
 .App-logo {
-  animation: spin infinite 20s linear;
+  animation: pulse 1s infinite ease-in-out alternate;
   height: 250px;
 }
 
@@ -21,4 +21,9 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+@keyframes pulse {
+  from { transform: scale(0.8); }
+  to { transform: scale(1.2); }
 }
