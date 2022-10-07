@@ -1,5 +1,5 @@
 .App-logo {
-  animation: pulse 1s infinite ease-in-out alternate;
+  animation: pulse 2s 5 ease-in-out alternate;
   height: 250px;
 }
 
